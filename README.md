@@ -1,4 +1,4 @@
-# 🎂 Happy Birthday Animation
+<!-- # 🎂 Happy Birthday Animation
 
 A beautiful, animated birthday greeting page built with **Vanilla JavaScript** and **GSAP**. Fully customizable through a single config file — no coding skills required!
 
@@ -263,5 +263,6 @@ Licensed under the [MIT License](LICENSE).
 > Find me on [GitHub](https://github.com/fajarghifar) &nbsp;&middot;&nbsp; [YouTube](https://www.youtube.com/@fajarghifar) &nbsp;&middot;&nbsp; [Instagram](https://instagram.com/fajarghifar) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/fajarghifar/)
 
 ---
-#   b i t h d a y w i s h  
+#   b i t h d a y w i s h 
  
+  -->
